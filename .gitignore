@@ -2,3 +2,4 @@
 *.csv
 build
 dist
+csv-merger.spec
